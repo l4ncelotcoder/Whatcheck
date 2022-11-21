@@ -1,2 +1,2 @@
 # Whatcheck
-Authlogin:checksfix
+Authlogin:checks12fix
